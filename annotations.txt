@@ -1,0 +1,1 @@
+no servidor, rodar  chmod +x .docker/entrypoint.sh

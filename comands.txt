@@ -1,0 +1,9 @@
+rodar container docker - sudo docker-compose up
+rodar bash dentro do docker para instalar dependências - sudo docker-compose exec app bash
+
+comandos prisma
+npx prisma init (dentro do bash) para inicializar
+
+npx prisma migrate dev --name init (dentro do bash) para criar um arquivo de migração 
+
+npx prisma studio (dentro do bash) para rodar o client do prisma
